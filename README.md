@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ahmed
 
-<!--
-**ahmedelsaadawi/ahmedelsaadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Software Engineer focused on building strong fundamentals in programming, problem solving and system design.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++
+- Problem Solving (DSA Basics)
+- Git & GitHub (Basic)
+
+## Currently Learning
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Software Engineering Fundamentals
+- System Design Basics
+- Building small projects in C++
